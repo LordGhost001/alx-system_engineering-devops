@@ -1,1 +1,1 @@
-shell redirection readme
+shell redirection project readme
